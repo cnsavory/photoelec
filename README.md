@@ -1,0 +1,2 @@
+# photoelec
+Photoelectric Animation widget
