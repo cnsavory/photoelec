@@ -1,0 +1,7 @@
+numpy
+sys
+scipy
+random
+functools
+time
+PySide6
